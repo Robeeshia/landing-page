@@ -261,8 +261,12 @@ flex: 1;
 }
 
 .category-section h2 {
-  font-size: 28px;
-  margin-bottom: 30px;
+  /* font-size: 28px;
+  margin-bottom: 30px; */
+
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600;
 }
 
 .categories {
